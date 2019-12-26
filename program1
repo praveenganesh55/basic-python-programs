@@ -3,11 +3,10 @@
 num1 = 15
 num2 = 12
 num3 = 12
-num4 = 10
-num5 = 56
+num6 = 66
 
 # Adding two nos 
-sum = num1 + num2 + num3 + num5
+sum = num1 + num2 + num3 + num6
 
 # printing values 
 print(sum) 
