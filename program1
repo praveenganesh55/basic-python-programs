@@ -8,6 +8,5 @@ num5 = 17
 
 # Adding two nos 
 sum = num1 + num2 + num3 + num4 + num5
-
 # printing values 
 print(sum) 
